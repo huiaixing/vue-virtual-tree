@@ -94,7 +94,7 @@ import type { TreeOptionProps } from './tree.type';
 import { useCommonMethod } from './hooks/useCommonMethod';
 
 export default defineComponent({
-  name: 'ElTreeVirtualNode',
+  name: 'VirtualTreeNode',
   components: {
     ElCollapseTransition,
     ElCheckbox,
